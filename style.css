@@ -1,0 +1,33 @@
+.container {
+ width: 500px;
+ margin: 0 auto;
+ text-align: center;
+}
+
+img {
+ width: 350px;
+ height: 350px;
+ border: 1px solid black;
+ border-radius: 10px;
+ margin-bottom: 20px;
+}
+
+h2 {
+ font-size: 30px;
+ margin-bottom: 10px;
+}
+
+p {
+ font-size: 20px;
+ margin-bottom: 20px;
+}
+
+a {
+ display: inline-block;
+ font-size: 20px;
+ padding: 10px 20px;
+ background-color: #FF9900;
+ color: #fff;
+ border-radius: 25px;
+ text-decoration: none;
+}
